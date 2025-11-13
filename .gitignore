@@ -43,6 +43,9 @@ data/
 *.json
 *.xlsx
 
+# Output
+output/
+
 # Logs
 *.log
 
